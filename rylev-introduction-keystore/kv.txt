@@ -1,0 +1,6 @@
+bye	5
+name	hhh
+AGE	555
+age	555
+NAME	hhh
+BYE	5
